@@ -1,1 +1,1 @@
-# Machine-Learning-and-Statistics-2020
+# Machine-Learning-and-Statistics-2020-Labs
