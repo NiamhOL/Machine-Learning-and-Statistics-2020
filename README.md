@@ -51,7 +51,24 @@ Use scikit-learn to apply k-means clustering to
 Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might
 be, and then explain how your model could be used to make predictions of species of iris.
  
+## Getting started
+Download and install Python and Anaconda All files associated with this project are available at https://github.com/NiamhOL/Machine-Learning-and-Statistics-2020-Tasks 
 
+## Packages used in this project
 
+The following packages were used to run statistical analysis and draw grpahs for this project.
+
+* Python https://www.python.org/downloads/
+* Anaconda https://www.anaconda.com/distribution/ - is the easiest way to perfrom Python data science machine learning on Linux, Windows and Mac OS.
+* iPython https://ipython.org/ - it an interactive command-line terminal for Python.
+* Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
+* Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations    and narriative text
+* import pandas as pd 
+import scipy.stats as stats 
+import matplotlib.pylab as plt
+from sklearn.model_selection import train_test_split
+from sklearn import preprocessing
+from sklearn.cluster import KMeans
+from pylab import rcParams
 
 
