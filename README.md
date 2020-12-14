@@ -70,5 +70,9 @@ The following packages were used to run statistical analysis and draw grpahs for
 * import matplotlib.pylab as plt https://matplotlib.org/
 * from sklearn.model_selection import ....https://scikit-learn.org/stable/
 
+## Author
+Niamh O'Leary for HDip in Data Analytics 2019/2020.
 
+## Licence
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE.md file for details.
 
