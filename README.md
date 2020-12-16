@@ -63,8 +63,6 @@ The following packages were used to run statistical analysis and draw grpahs for
 * iPython https://ipython.org/ - it an interactive command-line terminal for Python.
 * Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
 * Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations    and narriative text
-
-## Python libraries used in this project for statistical analysis and to generate plots
 * import pandas as pd https://pandas.pydata.org/
 * import scipy.stats as stats https://docs.scipy.org/doc/scipy/reference/stats.html
 * import matplotlib.pylab as plt https://matplotlib.org/
