@@ -50,6 +50,7 @@ is to figure out the terminology in the previous sentence.
 Use scikit-learn to apply k-means clustering to
 Fisher’s famous Iris data set. You will easily obtain a copy of the data set online. Explain in a Markdown cell how your code works and how accurate it might
 be, and then explain how your model could be used to make predictions of species of iris.
+#### Please note: I had completed task 4 using K-means before the announement and update to use k-nearest neighbour. In light of this I have included k-nearest neighbour as one of my Machine Learning Models in the project. 
  
 ## Getting started
 Download and install Python and Anaconda All files associated with this project are available at https://github.com/NiamhOL/Machine-Learning-and-Statistics-2020-Tasks 
